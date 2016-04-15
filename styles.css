@@ -1,0 +1,22 @@
+.gray-blue{
+  color:#545e69;}
+
+  .bg-greenery{
+    background-image: url(bg-images/greenery.jpg);
+  }
+  .bg-greenery3{
+    background-image: url(bg-images/greenery3.jpg);
+  }
+  .bg-pinkflower{
+    background-image: url(bg-images/pinkflower.jpg);
+  }
+  .bg-tiles{
+    background-image: url(bg-images/tiles.jpg);
+  }
+.bg-desk{
+  background-image: url(bg-images/desk.jpg);
+}
+  .bg-cover{
+    background-position: bottom center;
+    background-size: cover;
+  }
