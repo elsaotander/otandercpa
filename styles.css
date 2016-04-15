@@ -1,22 +1,45 @@
 .gray-blue{
   color:#545e69;}
 
-  .bg-greenery{
+.bg-light-gray{
+  background-color:#CCCCCC;
+}
+
+.bg-greenery{
     background-image: url(bg-images/greenery.jpg);
   }
-  .bg-greenery3{
+
+.bg-greenery3{
     background-image: url(bg-images/greenery3.jpg);
   }
-  .bg-pinkflower{
+
+.bg-pinkflower{
     background-image: url(bg-images/pinkflower.jpg);
   }
-  .bg-tiles{
+
+.bg-tiles{
     background-image: url(bg-images/tiles.jpg);
   }
+
 .bg-desk{
   background-image: url(bg-images/desk.jpg);
-}
-  .bg-cover{
+  }
+
+.bg-cover{
     background-position: bottom center;
     background-size: cover;
   }
+
+.button {
+    border-radius: .3em;
+    border-style: transparent;
+    border-width: 1px;
+    display: inline-block;
+    font-size: 1.25rem;
+    margin: 0 .6rem;
+    margin-bottom: .5em;
+    padding: .6em .6em;
+    text-decoration: none;
+    -webkit-transition: color .4s,background-color .4s,border .4s;
+    transition: color .4s,background-color .4s,border .4s;
+}
