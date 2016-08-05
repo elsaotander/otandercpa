@@ -83,13 +83,13 @@
 /* Solid icons get a fill */
 .resp-sharing-button__icon--solid,
 .resp-sharing-button__icon--solidcircle {
-  fill: white;
+  fill: #FFF;
   stroke: none;
 }
 
 .resp-sharing-button__link {
   text-decoration: none;
-  color: white;
+  color: #FFF;
 }
 
 .resp-sharing-button--large .resp-sharing-button__icon svg, .resp-sharing-button--medium .resp-sharing-button__icon svg {
@@ -133,28 +133,6 @@
   border-color: #c23321;
 }
 
-.resp-sharing-button--tumblr {
-  background-color: #35465C;
-  border-color: #35465C;
-}
-
-.resp-sharing-button--tumblr:hover,
-.resp-sharing-button--tumblr:active {
-  background-color: #222d3c;
-  border-color: #222d3c;
-}
-
-.resp-sharing-button--email {
-  background-color: #777777;
-  border-color: #777777;
-}
-
-.resp-sharing-button--email:hover
-.resp-sharing-button--email:active {
-  background-color: #5e5e5e;
-  border-color: #5e5e5e;
-}
-
 .resp-sharing-button--pinterest {
   background-color: #bd081c;
   border-color: #bd081c;
@@ -164,4 +142,15 @@
 .resp-sharing-button--pinterest:active {
   background-color: #8c0615;
   border-color: #8c0615;
+}
+
+.resp-sharing-button--linkedin {
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.resp-sharing-button--linkedin:hover,
+.resp-sharing-button--linkedin:active {
+  background-color: #046293;
+  border-color: #046293;
 }
