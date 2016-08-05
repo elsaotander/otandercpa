@@ -5,6 +5,10 @@
   background-color:#CCCCCC;
 }
 
+.bg-gray-blue{
+  background-color:#545e69;
+}
+
 .bg-greenery{
     background-image: url(bg-images/greenery.jpg);
   }
